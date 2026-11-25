@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>단어왔어 맥 업데이트</title>
+    <link>https://raw.githubusercontent.com/WordArrival/wordarrival/main/appcast.xml</link>
+    <description>단어왔어 맥용 배포 목록</description>
+    <item>
+      <title>단어왔어 1.0.2</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://raw.githubusercontent.com/WordArrival/wordarrival/main/WordArrival-Mac-1.0.2.dmg" type="application/octet-stream" length="7070774" sparkle:edSignature="i6bUTEtX15NMFr8tpDHU9UvcSMfA/OvKwhd/SK0/kufG5h481OjHCMpMUZfUSFZegOo/nPhQ8y2YDQfYiqBFCA=="/>
+    </item>
+  </channel>
+</rss>
