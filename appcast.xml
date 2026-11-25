@@ -5,11 +5,11 @@
     <link>https://raw.githubusercontent.com/WordArrival/wordarrival/main/appcast.xml</link>
     <description>단어왔어 맥용 배포 목록</description>
     <item>
-      <title>단어왔어 1.0.2</title>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>단어왔어 1.0.3</title>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://raw.githubusercontent.com/WordArrival/wordarrival/main/WordArrival-Mac-1.0.2.dmg" type="application/octet-stream" length="7070774" sparkle:edSignature="i6bUTEtX15NMFr8tpDHU9UvcSMfA/OvKwhd/SK0/kufG5h481OjHCMpMUZfUSFZegOo/nPhQ8y2YDQfYiqBFCA=="/>
+      <enclosure url="https://raw.githubusercontent.com/WordArrival/wordarrival/main/WordArrival-Mac-1.0.3.dmg" type="application/octet-stream" length="7070793" sparkle:edSignature="WFgWZJReWZg8CI0cReUi7W0JtPpFZcUH22Fhs9R4ZvNRxCaeCnI+77osWU59ucmC1H5iSj+IahUi6aA9snmQCQ=="/>
     </item>
   </channel>
 </rss>
